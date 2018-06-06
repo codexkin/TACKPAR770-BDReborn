@@ -1,22 +1,4 @@
 
-** یک ربات پیشرفته و قدرتمند مبتنی بر NEW TG-CLI
-
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
-
-* * *
-
-# Installation
-
-**If use TACKPAR770 put your helper bot Username Without @ in bot.lua, line 2
 
 ```sh
 # Let's install the bot.
